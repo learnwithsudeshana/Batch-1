@@ -1,0 +1,11 @@
+1. Run this exact command:
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+
+2. Unzip the installer
+unzip awscliv2.zip
+
+3. Install AWS CLI
+sudo ./aws/install
+
+4. Verify installation
+aws --version
