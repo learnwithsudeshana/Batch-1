@@ -1,0 +1,12 @@
+
+1.	Download the installer: https://awscli.amazonaws.com/AWSCLIV2.msi
+2.	Double-click AWSCLIV2.msi
+3.	Click Next 
+4.	Accept License -> Next 
+5.	Click Install 
+6.	Click Finish
+7.	Restart Command Prompt
+8.	Verify Installation
+9.	Open Command Prompt run:
+     aws –version
+     aws-cli/2.33.17 Python/3.13.11 Windows/11 exe/AMD64
