@@ -1,0 +1,12 @@
+
+1.	Run: 
+$ aws configure
+
+2.	Enter
+AWS Access Key ID:     <your-access-key>
+AWS Secret Access Key: <your-secret-key>
+Default region name:   ap-south-1
+Default output format: json
+
+3.	Test AWS CLI
+$ aws s3 ls
