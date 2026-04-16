@@ -1,4 +1,4 @@
-# EC2 User Data Web Server with Hostname Display
+# Host a Simple Website on EC2 Using User Data Script
 
 This project demonstrates how to automatically install and configure a web server on an AWS EC2 instance using **boot (user data) scripting**.  
 The web page dynamically displays the **instance hostname**, proving successful automated deployment.
