@@ -31,16 +31,16 @@ This is useful for:
 - HTML
 
 ## How to Deploy
-Go to AWS EC2 Console
-Click Launch Instance
-Choose:
-Amazon Linux 2 or Ubuntu
-Expand Advanced Details
-Paste the User Data script
-Launch the instance
-Allow HTTP traffic (Port 80) in Security Group
-Access in browser:
-http://EC2-PUBLIC-IP
+- Go to AWS EC2 Console
+- Click Launch Instance
+- Choose:
+ Amazon Linux 2 or Ubuntu
+ Expand Advanced Details
+ Paste the User Data script
+ Launch the instance
+ Allow HTTP traffic (Port 80) in Security Group
+ - Access in browser:
+   http://EC2-PUBLIC-IP
 
 ## Expected Output
 When you open the browser:
