@@ -1,13 +1,11 @@
-1. Download the installer:
-https://awscli.amazonaws.com/AWSCLIV2.msi
+1. Run this exact command:
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 
-2. Run installer
-Double-click the downloaded .msi file
-Click Next → Next → Install
+2. Unzip the installer
+unzip awscliv2.zip
 
-3. Verify installation
-Open Command Prompt (CMD) or PowerShell and run
+3. Install AWS CLI
+sudo ./aws/install
+
+4. Verify installation
 aws --version
-
-4. You should see something like:
-aws-cli/2.x.x Python/
