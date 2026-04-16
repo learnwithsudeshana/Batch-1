@@ -45,5 +45,5 @@ http://EC2-PUBLIC-IP
 Expected Output
 When you open the browser:
 
-Welcome to EC2 Web Server
-Hostname: hostname
+# Welcome to EC2 Web Server
+# Hostname: hostname
