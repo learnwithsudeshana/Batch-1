@@ -42,8 +42,7 @@ This is useful for:
  - Access in browser:
    http://EC2-PUBLIC-IP
 
-## Expected Output
-When you open the browser:
+## Expected Output When you open the browser:
 
-Welcome to EC2 Web Server
+Welcome to EC2 Web Server  <br>
 Hostname: hostname
