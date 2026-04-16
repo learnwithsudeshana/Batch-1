@@ -42,8 +42,8 @@ Allow HTTP traffic (Port 80) in Security Group
 Access in browser:
 http://EC2-PUBLIC-IP
 
-Expected Output
+## Expected Output
 When you open the browser:
 
-# Welcome to EC2 Web Server
-# Hostname: hostname
+Welcome to EC2 Web Server
+Hostname: hostname
