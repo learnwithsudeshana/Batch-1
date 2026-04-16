@@ -37,6 +37,8 @@ This is useful for:
  Amazon Linux 2 or Ubuntu <br>
  Expand Advanced Details <br>
  Paste the User Data script <br>
+ For linux https://github.com/learnwithsudeshana/Batch-1/blob/main/ec2-userdata-script-web-hosting/amazon-linux-user-data.sh <br>
+ For ubuntu https://github.com/learnwithsudeshana/Batch-1/blob/main/ec2-userdata-script-web-hosting/ubuntu-user-data.sh <br>
  Launch the instance <br>
  Allow HTTP traffic (Port 80) in Security Group <br>
  - Access in browser: http://EC2-PUBLIC-IP
